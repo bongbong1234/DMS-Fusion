@@ -5,7 +5,7 @@ RGB-D 카메라를 활용한 DMS 구현(스마트인재개개발원 프로젝트
 2025.03.04 ~ 2025.03.20 (총 16일)
 
 # 맡은 역할
-FrontEnd로 UI/UX개발 및 구현, 화면 디자인 설계, 화면 설계서 제작 및 딥러닝 모델을 개발 하였습니다.
+BackEnd로 얼굴인증 시스템을 개발 하였습니다.
 
 # 사용기술
 - 언어 : <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"> <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white">
